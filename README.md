@@ -3,43 +3,63 @@ A collection of resources to learn about AVSs in EigenLayer.
 
 For resources on EigenLayer check out [EigenLayer Hub](https://web3citizen.notion.site/EigenLayer-Hub-0d87bfebd4fe47739a4d0ef8a2e7d45f).
 
-# EigenLayer's AVS
-EigenDA
----
+## EigenLayer's AVS
+**EigenDA**
+
 EigenDA stands as a secure, high-throughput, and decentralized data availability service built on top of Ethereum, utilizing the EigenLayer restaking primitive.
 EigenDA is the first actively validated service (AVS) on EigenLayer providing low-cost, data availability to rollups.
 [Read more](https://www.blog.eigenlayer.xyz/intro-to-eigenda-hyperscale-data-availability-for-rollups/) 
 - [EigenDA Explained](https://www.youtube.com/watch?v=Zksr-oBkvjA)
 - [EigenDA stats](https://app.eigenlayer.xyz/avs/0x870679e138bcdf293b7ff14dd44b70fc97e12fc0)
   
-# Live on mainnet AVS
+## Live on mainnet AVS
 
 Altlayer
 ---
+- [Docs](https://docs.altlayer.io/altlayer-documentation)
+
 Brevis
 ---
+- [Docs](https://docs.brevis.network/)
+
 Eoracle
 ---
 - [Docs](https://eoracle.gitbook.io/eoracle)
 
 Lagrange
 ---
+- [Docs](https://lagrange-labs.gitbook.io/lagrange-v2-1/zk-big-data/overview-of-lagranges-parallel-prover)
+
 Witness Chain
 ---
-Witness Chain is building the coordination layer to unify De-centralized Physical Infrastructure Networks (DePIN) economies. 
+Witness Chain is building the coordination layer to unify Decentralized Physical Infrastructure Networks (DePIN) economies.
 
 By becoming an AVS, EigenLayer infrastructure can now be utilized to achieve consensus on physical state. Unverified physical attributes of DePIN networks can now become measured, verifiable digital proofs. These proofs can later be attested or challenged, and consumed by apps or chains to build products and services.
 - [Learn about Diligence Watchtowers](https://docs.witnesschain.com/diligence-watchtowers/introduction)
 - [How to participate](https://www.witnesschain.com/)
 
-# AVS in development
-
-Automata Network
+Xterio
 ---
+- [Website](https://xter.io/)
+
+
+## AVS in development
+
+Aethos
+---
+- [Docs](https://docs.aethos.network/aethos)
 
 Aligned Layer
 ---
 - [Docs](https://alignedlayer.com/)
+
+Automata Network
+---
+- [Docs](https://www.ata.network/)
+
+Blockless
+---
+- [Docs](https://blockless.network/docs)
 
 Drosera
 ---
@@ -59,7 +79,7 @@ Fhenix
 
 Gasp
 ---
-- Website (no docs yet)
+- [Website](https://www.gasp.xyz/) (no docs yet)
 
 Hyperlane
 ---
