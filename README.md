@@ -3,8 +3,11 @@ A collection of resources to learn about AVSs in EigenLayer.
 
 For resources on EigenLayer check out [EigenLayer Hub](https://web3citizen.notion.site/EigenLayer-Hub-0d87bfebd4fe47739a4d0ef8a2e7d45f).
 
-## EigenLayer's AVS
-**EigenDA**
+# Live on mainnet
+
+## Data Availability
+EigenDA
+---
 
 EigenDA stands as a secure, high-throughput, and decentralized data availability service built on top of Ethereum, utilizing the EigenLayer restaking primitive.
 EigenDA is the first actively validated service (AVS) on EigenLayer providing low-cost, data availability to rollups.
@@ -12,24 +15,25 @@ EigenDA is the first actively validated service (AVS) on EigenLayer providing lo
 - [EigenDA Explained](https://www.youtube.com/watch?v=Zksr-oBkvjA)
 - [EigenDA stats](https://app.eigenlayer.xyz/avs/0x870679e138bcdf293b7ff14dd44b70fc97e12fc0)
   
-## Live on mainnet AVS
-
-Altlayer
----
-- [Docs](https://docs.altlayer.io/altlayer-documentation)
-
-Brevis
----
-- [Docs](https://docs.brevis.network/)
-
+## Oracles
 Eoracle
 ---
 - [Docs](https://eoracle.gitbook.io/eoracle)
+
+## ZK Coprocessors
+Brevis
+---
+Brevis is a smart zero-knowledge coprocessor that empowers smart contracts to read from, verify and utilize the full historical on-chain data from any chain and run customizable computations in a completely trust-free way. Use cases include zkBridges, ZK identity, social account abstraction, data-driven dApps among others.
+
+Brevis coChain accepts coprocessing requests from smart contracts and optimistically generates the results secured by a restaking quorum. Brevis was one of the first AVSs to go live on mainnet.
+
+- [Docs](https://docs.brevis.network/)
 
 Lagrange
 ---
 - [Docs](https://lagrange-labs.gitbook.io/lagrange-v2-1/zk-big-data/overview-of-lagranges-parallel-prover)
 
+## Consensus Layer for DePIN economies
 Witness Chain
 ---
 Witness Chain is building the coordination layer to unify Decentralized Physical Infrastructure Networks (DePIN) economies.
@@ -38,9 +42,28 @@ By becoming an AVS, EigenLayer infrastructure can now be utilized to achieve con
 - [Learn about Diligence Watchtowers](https://docs.witnesschain.com/diligence-watchtowers/introduction)
 - [How to participate](https://www.witnesschain.com/)
 
+
+## Rollups
+
+Altlayer
+---
+- [Docs](https://docs.altlayer.io/altlayer-documentation)
+
+
+## Interoperability Rollups
+Omni Network
+---
+
+## Gaming
 Xterio
 ---
 - [Website](https://xter.io/)
+
+## Multiprover
+Automata Network
+---
+- [Docs](https://www.ata.network/)
+
 
 
 ## AVS in development
@@ -53,9 +76,6 @@ Aligned Layer
 ---
 - [Docs](https://alignedlayer.com/)
 
-Automata Network
----
-- [Docs](https://www.ata.network/)
 
 Blockless
 ---
