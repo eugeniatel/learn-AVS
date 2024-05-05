@@ -1,7 +1,11 @@
-# Learn AVS
+# Learn AVS (WIP)
 A collection of resources to learn about AVSs in EigenLayer.
 
 For resources on EigenLayer check out [EigenLayer Hub](https://web3citizen.notion.site/EigenLayer-Hub-0d87bfebd4fe47739a4d0ef8a2e7d45f).
+
+# Dashboards
+-  for real-time performance, economic & security [dune.com/hahahash/avs](https://dune.com/hahahash/avs)
+
 
 # Live on mainnet
 
